@@ -1,0 +1,31 @@
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  text-align: center;
+  img {
+    width: 100%;
+  }
+}
+.title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 140%;
+  color: #000000;
+}
+.subtitle {
+  font-weight: 300;
+  font-size: 14px;
+  width: 300px;
+}
+
+
+.paragraph {
+  text-align: left;
+  font-size: 14px;
+  font-weight: 300;
+  color: #9c9c9c;
+  line-height: 175%;
+}

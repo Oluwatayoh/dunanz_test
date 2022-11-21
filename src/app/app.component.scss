@@ -1,0 +1,15 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.layout {
+  height: 100vh;
+  .topbar {
+    position: fixed;
+    width: 100%;
+    background-color: #ffff;
+  }
+  .content {
+    padding-top: 10rem;
+  }
+}
